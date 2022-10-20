@@ -1,0 +1,4 @@
+{
+    "sketch": "cereal.ino",
+    "port": "/dev/ttyACM0"
+}
